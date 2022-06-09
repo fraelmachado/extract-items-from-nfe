@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nfeProc xmlns="http://www.portalfiscal.inf.br/nfe" versao="4.00">
+    <NFe>
+        <infNFe Id="NFe15220645865920001000550010001085101868168052" versao="4.00">
+            <ide>
+                <cUF>15</cUF>
+                <cNF>86816805</cNF>
+                <natOp>VENDA ZFM OU ALC</natOp>
+                <mod>55</mod>
+                <serie>1</serie>
+                <nNF>108510</nNF>
+                <dhEmi>2022-06-03T12:08:00-03:00</dhEmi>
+                <dhSaiEnt>2022-06-03T12:31:20-03:00</dhSaiEnt>
+                <tpNF>1</tpNF>
+                <idDest>2</idDest>
+                <cMunFG>1500800</cMunFG>
+                <tpImp>1</tpImp>
+                <tpEmis>1</tpEmis>
+                <cDV>2</cDV>
+                <tpAmb>1</tpAmb>
+                <finNFe>1</finNFe>
+                <indFinal>0</indFinal>
+                <indPres>9</indPres>
+                <indIntermed>0</indIntermed>
+                <procEmi>0</procEmi>
+                <verProc>12.1.025 | 3.0</verProc>
+            </ide>
+            <emit>
+                <CNPJ>45865920001000</CNPJ>
+                <xNome>MAKITA DO BRASIL FERRAMENTAS ELETRICAS LTDA</xNome>
+                <xFant>MAKITA-PA</xFant>
+                <enderEmit>
+                    <xLgr>RODOVIA BR 316, SN</xLgr>
+                    <nro>SN</nro>
+                    <xCpl>KM 04 - LOJA 04</xCpl>
+                    <xBairro>AGUAS LINDAS</xBairro>
+                    <cMun>1500800</cMun>
+                    <xMun>ANANINDEUA</xMun>
+                    <UF>PA</UF>
+                    <CEP>67020000</CEP>
+                    <cPais>1058</cPais>
+                    <xPais>BRASIL</xPais>
+                    <fone>9132377186</fone>
+                </enderEmit>
+                <IE>154006203</IE>
+                <IM>283220</IM>
+                <CNAE>4672900</CNAE>
+                <CRT>3</CRT>
+            </emit>
+            <dest>
+                <CNPJ>35991059000173</CNPJ>
+                <xNome>RAMPAP COM ATACAD DE MAT DE CONST LTDA</xNome>
+                <enderDest>
+                    <xLgr>AVENIDA TORQUATO TAPAJOS</xLgr>
+                    <nro>7503</nro>
+                    <xCpl>GALPAO2 MODULO 16</xCpl>
+                    <xBairro>TARUMA</xBairro>
+                    <cMun>1302603</cMun>
+                    <xMun>MANAUS</xMun>
+                    <UF>AM</UF>
+                    <CEP>69041025</CEP>
+                    <cPais>1058</cPais>
+                    <xPais>BRASIL</xPais>
+                    <fone>9284134230</fone>
+                </enderDest>
+                <indIEDest>1</indIEDest>
+                <IE>054281601</IE>
+                <ISUF>210132779</ISUF>
+                <email>fiscal@rampap.com.br;comercial@nortebrasillog.com.br</email>
+            </dest>
+            <det nItem="1">
+                <prod>
+                    <cProd>M0801KB-127V</cProd>
+                    <cEAN>088381729147</cEAN>
+                    <xProd>FURADEIRA DE IMPACTO 13MM (1/2POL) -127V</xProd>
+                    <NCM>84672100</NCM>
+                    <CEST>2110000</CEST>
+                    <cBenef />
+                    <CFOP>6110</CFOP>
+                    <uCom>PC</uCom>
+                    <qCom>10.0000</qCom>
+                    <vUnCom>234.350000</vUnCom>
+                    <vProd>2343.50</vProd>
+                    <cEANTrib>088381729147</cEANTrib>
+                    <uTrib>PC</uTrib>
+                    <qTrib>10.0000</qTrib>
+                    <vUnTrib>234.350000</vUnTrib>
+                    <indTot>1</indTot>
+                </prod>
+                <imposto>
+                    <ICMS>
+                        <ICMS40>
+                            <orig>0</orig>
+                            <CST>40</CST>
+                            <vICMSDeson>281.22</vICMSDeson>
+                            <motDesICMS>7</motDesICMS>
+                        </ICMS40>
+                    </ICMS>
+                    <IPI>
+                        <cEnq>131</cEnq>
+                        <IPINT>
+                            <CST>55</CST>
+                        </IPINT>
+                    </IPI>
+                    <PIS>
+                        <PISNT>
+                            <CST>06</CST>
+                        </PISNT>
+                    </PIS>
+                    <COFINS>
+                        <COFINSNT>
+                            <CST>06</CST>
+                        </COFINSNT>
+                    </COFINS>
+                </imposto>
+                <infAdProd>ICMS abat.:R$ 281.22 (12% de R$ 2343.50)CEST: 21.100.00</infAdProd>
+            </det>
+            <det nItem="2">
+                <prod>
+                    <cProd>KITDHP482+DCL</cProd>
+                    <cEAN>7895518056051</cEAN>
+                    <xProd>KIT DHP482SY+DCL180Z+BL1850B+ACESSORIOS</xProd>
+                    <NCM>84672992</NCM>
+                    <CEST>0801900</CEST>
+                    <cBenef />
+                    <CFOP>6110</CFOP>
+                    <uCom>PC</uCom>
+                    <qCom>3.0000</qCom>
+                    <vUnCom>1131.140000</vUnCom>
+                    <vProd>3393.42</vProd>
+                    <cEANTrib>7895518056051</cEANTrib>
+                    <uTrib>PC</uTrib>
+                    <qTrib>3.0000</qTrib>
+                    <vUnTrib>1131.140000</vUnTrib>
+                    <indTot>1</indTot>
+                </prod>
+                <imposto>
+                    <ICMS>
+                        <ICMS40>
+                            <orig>0</orig>
+                            <CST>40</CST>
+                            <vICMSDeson>298.61</vICMSDeson>
+                            <motDesICMS>7</motDesICMS>
+                        </ICMS40>
+                    </ICMS>
+                    <IPI>
+                        <cEnq>131</cEnq>
+                        <IPINT>
+                            <CST>55</CST>
+                        </IPINT>
+                    </IPI>
+                    <PIS>
+                        <PISNT>
+                            <CST>06</CST>
+                        </PISNT>
+                    </PIS>
+                    <COFINS>
+                        <COFINSNT>
+                            <CST>06</CST>
+                        </COFINSNT>
+                    </COFINS>
+                </imposto>
+                <infAdProd>ICMS abat.:R$ 298.61 (12% de R$ 3393.42)CEST: 08.019.00</infAdProd>
+            </det>
+            <total>
+                <ICMSTot>
+                    <vBC>0</vBC>
+                    <vICMS>0</vICMS>
+                    <vICMSDeson>579.83</vICMSDeson>
+                    <vFCPUFDest>0</vFCPUFDest>
+                    <vICMSUFDest>0</vICMSUFDest>
+                    <vICMSUFRemet>0</vICMSUFRemet>
+                    <vFCP>0</vFCP>
+                    <vBCST>0</vBCST>
+                    <vST>0</vST>
+                    <vFCPST>0</vFCPST>
+                    <vFCPSTRet>0</vFCPSTRet>
+                    <vProd>5736.92</vProd>
+                    <vFrete>0</vFrete>
+                    <vSeg>0</vSeg>
+                    <vDesc>0</vDesc>
+                    <vII>0</vII>
+                    <vIPI>0</vIPI>
+                    <vIPIDevol>0</vIPIDevol>
+                    <vPIS>0</vPIS>
+                    <vCOFINS>0</vCOFINS>
+                    <vOutro>0</vOutro>
+                    <vNF>5157.09</vNF>
+                </ICMSTot>
+            </total>
+            <transp>
+                <modFrete>0</modFrete>
+                <transporta>
+                    <CNPJ>10889552000156</CNPJ>
+                    <xNome>NORTE BRASIL LOGISTICA LTDA</xNome>
+                    <IE>152871098</IE>
+                    <xEnder>ROD. BR-316, KM-6,5 S/N (GALPAO 2).</xEnder>
+                    <xMun>ANANINDEUA</xMun>
+                    <UF>PA</UF>
+                </transporta>
+                <vol>
+                    <qVol>4</qVol>
+                    <esp>CAIXA</esp>
+                    <pesoL>37.500</pesoL>
+                    <pesoB>37.600</pesoB>
+                </vol>
+            </transp>
+            <cobr>
+                <fat>
+                    <nFat>001108510</nFat>
+                    <vOrig>5157.09</vOrig>
+                    <vDesc>0</vDesc>
+                    <vLiq>5157.09</vLiq>
+                </fat>
+                <dup>
+                    <nDup>001</nDup>
+                    <dVenc>2022-07-03</dVenc>
+                    <vDup>736.73</vDup>
+                </dup>
+                <dup>
+                    <nDup>002</nDup>
+                    <dVenc>2022-08-02</dVenc>
+                    <vDup>736.73</vDup>
+                </dup>
+                <dup>
+                    <nDup>003</nDup>
+                    <dVenc>2022-09-01</dVenc>
+                    <vDup>736.73</vDup>
+                </dup>
+                <dup>
+                    <nDup>004</nDup>
+                    <dVenc>2022-10-01</dVenc>
+                    <vDup>736.73</vDup>
+                </dup>
+                <dup>
+                    <nDup>005</nDup>
+                    <dVenc>2022-10-31</dVenc>
+                    <vDup>736.73</vDup>
+                </dup>
+                <dup>
+                    <nDup>006</nDup>
+                    <dVenc>2022-11-30</dVenc>
+                    <vDup>736.73</vDup>
+                </dup>
+                <dup>
+                    <nDup>007</nDup>
+                    <dVenc>2022-12-30</dVenc>
+                    <vDup>736.71</vDup>
+                </dup>
+            </cobr>
+            <pag>
+                <detPag>
+                    <indPag>1</indPag>
+                    <tPag>15</tPag>
+                    <vPag>5157.09</vPag>
+                </detPag>
+            </pag>
+            <infAdic>
+                <infAdFisco>ICMS - ISENCAO CONF ART 45, ANEXO II DO RICMS-PA/01IPI - SUSPENSAO CONF ART 84 RIPI/10 (ZFM)- ART 99 (AREA DE LIVRE COMERCIO)VDA C/ALIQ. 0% PIS/COFINS LEI 10996/04 E LEI 11945/09 Total do desconto Ref. a Zona Franca de Manaus / ALC. R$        579.83 -  ICMS - B.C. RED. CONF. ANEXI III, ART. 3., DO RICMS-PA/01 / Item(s):02 Red.:26.67 %/</infAdFisco>
+                <infCpl>091732/ Qtd: 13/ SUFRAMA : 210132779 Codigo do Cliente: 17688 -01   Ordem Separacao: 000022174   PRODUTOS NAO DESTINADOS AO USO AUTOMOTIVO Valor do ICMS Desonerado: R$ 579,83.</infCpl>
+            </infAdic>
+            <infRespTec>
+                <CNPJ>53113791000122</CNPJ>
+                <xContato>Rodrigo de Almeida Sartorio</xContato>
+                <email>resp_tecnico_dfe_protheus@totvs.com.br</email>
+                <fone>1128593904</fone>
+            </infRespTec>
+        </infNFe>
+        <Signature xmlns="http://www.w3.org/2000/09/xmldsig#">
+            <SignedInfo>
+                <CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" />
+                <SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" />
+                <Reference URI="#NFe15220645865920001000550010001085101868168052">
+                    <Transforms>
+                        <Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" />
+                        <Transform Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" />
+                    </Transforms>
+                    <DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+                    <DigestValue>g6SxCLXXKw7F2GrbsdJeoc+mW5E=</DigestValue>
+                </Reference>
+            </SignedInfo>
+            <SignatureValue>ZZjnohWPtSBPa0kwsakPGxabc5JWnqrcUdyC3mqTLxlSgQj0tltRK8GDLQsDEa8wEh/61wsnEY2ZfYFghPvpfGQiXZRdPZIShrTYUULyr9qZ/ERQNNKwuduYKLr9A7j+/j3NNX2xXTmcC7yexqAeiBWcrsP+fHYSC/Om06WoJ1CuryPaefSMb3bOlGqZXFJ6lFv8c9M7na36EKnWsK6BvGIF5nOUmKRpLVTMk5nLrYA47tMkqAr3hWv8J7FPb8j3L43V7LCCF6lm6wT3xC/ZJi7N2bqwa5ES/0FG6JAH0ajIrI6rnGDcE+/yzFkVvc75WUFyWKfe92VzO7GoIDTk4Q==</SignatureValue>
+            <KeyInfo>
+                <X509Data>
+                    <X509Certificate>MIIH4DCCBcigAwIBAgIQLiACUR95ymq3GY8zg1RtSTANBgkqhkiG9w0BAQsFADB0MQswCQYDVQQGEwJCUjETMBEGA1UEChMKSUNQLUJyYXNpbDEtMCsGA1UECxMkQ2VydGlzaWduIENlcnRpZmljYWRvcmEgRGlnaXRhbCBTLkEuMSEwHwYDVQQDExhBQyBDZXJ0aXNpZ24gTXVsdGlwbGEgRzcwHhcNMjEwNzA4MTQwNDU2WhcNMjIwNzA4MTQwNDU2WjCBwzELMAkGA1UEBhMCQlIxEzARBgNVBAoMCklDUC1CcmFzaWwxHjAcBgNVBAsMFUFDIENlcnRpc2lnbiBNdWx0aXBsYTEXMBUGA1UECwwONDAzMTI5OTMwMDAxNTExEzARBgNVBAsMClByZXNlbmNpYWwxGzAZBgNVBAsMEkFzc2luYXR1cmEgVGlwbyBBMTE0MDIGA1UEAwwrTUFLSVRBIERPIEJSQVNJTCBGRVJSQU1FTlRBUyBFTEVUUklDQVMgTFREQTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAJ/A1IogyKgypIZDnCFYGdtUssNRVdvifpQElhFeHOR3SsQOnfaRsjaTEf16c/CHlDQIw0SjC15VR/pvCP7njnfhWBSYW9+0INLEqjvgsKRa5bB5OpSAo7wSToHQTSHWQSc4N8NjAsJS/BrB+hERSYMM0zJGkgkQlIa48+MJL0I+XjmsG+3zpp0yWF/nTir92vf63SWimf1qnA8yc/mXf3caRFxSXkad02NrQR0GvCYDV2z8ctI7+wjkM1eAEmmoxMbuz2F24u1GDPZienrX3/1G9oaLQkz0doxTKXGl6B7umJiq0+eX9cN5ogckuf4IilKOgFAmdsca3bP2ps5qCNUCAwEAAaOCAxwwggMYMIGqBgNVHREEgaIwgZ+gOAYFYEwBAwSgLwQtMDMxMjE5OTM4MDE4ODg3ODk2MzAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwoBkGBWBMAQMCoBAEDktPU1VLRSBTVUdJVVJBoBkGBWBMAQMDoBAEDjQ1ODY1OTIwMDAwNjE1oBcGBWBMAQMHoA4EDDAwMDAwMDAwMDAwMIEUYWVsaWFzQG1ha2l0YS5jb20uYnIwCQYDVR0TBAIwADAfBgNVHSMEGDAWgBRdcgy/M9K744am6EwGcX5VXAeg1jCBiwYDVR0gBIGDMIGAMH4GBmBMAQIBCzB0MHIGCCsGAQUFBwIBFmZodHRwOi8vaWNwLWJyYXNpbC5jZXJ0aXNpZ24uY29tLmJyL3JlcG9zaXRvcmlvL2RwYy9BQ19DZXJ0aXNpZ25fTXVsdGlwbGEvRFBDX0FDX0NlcnRpU2lnbl9NdWx0aXBsYS5wZGYwgcYGA1UdHwSBvjCBuzBcoFqgWIZWaHR0cDovL2ljcC1icmFzaWwuY2VydGlzaWduLmNvbS5ici9yZXBvc2l0b3Jpby9sY3IvQUNDZXJ0aXNpZ25NdWx0aXBsYUc3L0xhdGVzdENSTC5jcmwwW6BZoFeGVWh0dHA6Ly9pY3AtYnJhc2lsLm91dHJhbGNyLmNvbS5ici9yZXBvc2l0b3Jpby9sY3IvQUNDZXJ0aXNpZ25NdWx0aXBsYUc3L0xhdGVzdENSTC5jcmwwDgYDVR0PAQH/BAQDAgXgMB0GA1UdJQQWMBQGCCsGAQUFBwMCBggrBgEFBQcDBDCBtgYIKwYBBQUHAQEEgakwgaYwZAYIKwYBBQUHMAKGWGh0dHA6Ly9pY3AtYnJhc2lsLmNlcnRpc2lnbi5jb20uYnIvcmVwb3NpdG9yaW8vY2VydGlmaWNhZG9zL0FDX0NlcnRpc2lnbl9NdWx0aXBsYV9HNy5wN2MwPgYIKwYBBQUHMAGGMmh0dHA6Ly9vY3NwLWFjLWNlcnRpc2lnbi1tdWx0aXBsYS5jZXJ0aXNpZ24uY29tLmJyMA0GCSqGSIb3DQEBCwUAA4ICAQCk3KwqrwfMR1R9J6VBv7zdhgxnM2CV2qmAT3koCxcUPmZPqLbv6F26jACDhLxjzokglNsZROkuHCdbm2v3pgiuP8zAnTVP1evZDcpXhllN/W/E5r1+ZzNqZf6p1tEy7tRBPc6qYXEK3+dyPnYoS5fUtitMIrWubKNBvAAjnl33vhh5I7P994ykTkvijouURh3PMcceY9or02PSYsa0u9jITbEoGrVisf35syjPZd8Zpfcgl1dOJbSSIY5GoN1cvRKzAxdTD914IbY3vq70FADnlVt9JeqFW2/9rMRar/ia2wsypXpu+q2ctjSkjwT/wEws3v/fxQJ395M0guiTHNE1+lNkqHaD9NAcNHrWhrFgjPopXuyAPjGkA2tsRkzTdv15FXq/DSFcHCwtWHsvDFsAOJVMeHRWxFrEXHJ+semBFmKJRjQFnoormtK+J00gkq7I6Br7BmZ4qtAsOnCQToVvyMdrUHdgJFpOFVrM0oPkrgd1XIDyP1oviJ3EamKjeVNPy7LXWo8qExdevHLJxzXg+8tjmakuXSrZUyFYtttz1gIl/iHl4YIb2hAWX6QKlnmSQLlAK0ivLMG6mrNllK2zpXubodcpTFFygFqqnXj6UCTCIQwgv33z0zv/KUW3vCwcqtbtFzD+Vxxze4th8sFh+SIkQFZQspPmtb0iTt3hpA==</X509Certificate>
+                </X509Data>
+            </KeyInfo>
+        </Signature>
+    </NFe>
+    <protNFe versao="4.00">
+        <infProt>
+            <tpAmb>1</tpAmb>
+            <verAplic>SVRS202204131008</verAplic>
+            <chNFe>15220645865920001000550010001085101868168052</chNFe>
+            <dhRecbto>2022-06-03T12:31:29-03:00</dhRecbto>
+            <nProt>315220021549463</nProt>
+            <digVal>g6SxCLXXKw7F2GrbsdJeoc+mW5E=</digVal>
+            <cStat>100</cStat>
+            <xMotivo>Autorizado o uso da NF-e</xMotivo>
+        </infProt>
+    </protNFe>
+</nfeProc>
